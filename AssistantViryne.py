@@ -7,7 +7,7 @@ import webbrowser
 
 
 
-OPENAI_KEY = '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'
+OPENAI_KEY = 'Your API OpenAI'
 openai.api_key = OPENAI_KEY
 
 # Daftar situs web
